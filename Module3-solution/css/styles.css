@@ -1,0 +1,38 @@
+*{
+  box-sizing: border-box;
+}
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #f5c945;
+  font-family: 'Oxygen', sans-serif;
+}
+#header-nav {
+  background-color: #28ede7;
+  border-radius: 0;
+  border: 0;
+}
+.menu-item{
+	text-align: center;
+}
+.advise{
+	font-size: 10px;
+	text-align: center;
+	margin: 2px auto 2px;
+}
+div.box {
+  background-color: #ffce7a;
+  border: 2px solid black;
+  width: 100%; 
+  margin: 10px auto 10px;
+  padding: 50px 15px 15px 15px;
+}
+p.card-title{
+  font-weight: bold;
+  font-size: 50px;
+  text-align: center;
+  margin-top: -40px;
+}
+p.card-text{
+	font-size: 30px;
+}
